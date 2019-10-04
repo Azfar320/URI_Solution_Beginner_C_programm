@@ -1,0 +1,283 @@
+44:122: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935010 
+09-29 01:47:44:123: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935011 
+09-29 01:47:44:123: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935011 
+09-29 01:48:24:123: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935012 
+09-29 01:48:24:123: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935012 
+09-29 01:48:24:124: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935013 
+09-29 01:48:24:124: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935013 
+09-29 01:48:24:127: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935014 
+09-29 01:48:24:127: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935014 
+09-29 01:48:34:125: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935015 
+09-29 01:48:34:126: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935015 
+09-29 01:48:34:126: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935016 
+09-29 01:48:34:126: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935016 
+09-29 01:48:34:131: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935017 
+09-29 01:48:34:131: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935017 
+09-29 01:48:44:126: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935018 
+09-29 01:48:44:127: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935019 
+09-29 01:48:44:126: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935018 
+09-29 01:48:44:127: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935019 
+09-29 01:49:24:133: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935020 
+09-29 01:49:24:133: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935020 
+09-29 01:49:24:133: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935021 
+09-29 01:49:24:133: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935021 
+09-29 01:49:24:138: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935022 
+09-29 01:49:24:138: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935022 
+09-29 01:49:34:130: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935023 
+09-29 01:49:34:131: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935023 
+09-29 01:49:34:131: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935024 
+09-29 01:49:34:131: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935024 
+09-29 01:49:34:137: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935025 
+09-29 01:49:34:138: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935025 
+09-29 01:49:44:131: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935026 
+09-29 01:49:44:131: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935026 
+09-29 01:49:44:131: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935027 
+09-29 01:49:44:131: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935027 
+09-29 01:50:24:133: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935028 
+09-29 01:50:24:133: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935028 
+09-29 01:50:24:134: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935029 
+09-29 01:50:24:134: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935029 
+09-29 01:50:24:136: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935030 
+09-29 01:50:24:136: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935030 
+09-29 01:50:34:134: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935031 
+09-29 01:50:34:135: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935031 
+09-29 01:50:34:135: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935032 
+09-29 01:50:34:135: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935032 
+09-29 01:50:34:138: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935033 
+09-29 01:50:34:138: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935033 
+09-29 01:50:44:135: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935034 
+09-29 01:50:44:135: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935034 
+09-29 01:50:44:136: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935035 
+09-29 01:50:44:136: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935035 
+09-29 01:51:24:142: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935036 
+09-29 01:51:24:142: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935036 
+09-29 01:51:24:143: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935037 
+09-29 01:51:24:143: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935037 
+09-29 01:51:24:149: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935038 
+09-29 01:51:24:149: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935038 
+09-29 01:51:34:138: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935039 
+09-29 01:51:34:138: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935039 
+09-29 01:51:34:138: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935040 
+09-29 01:51:34:139: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935040 
+09-29 01:51:34:143: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935041 
+09-29 01:51:34:143: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935041 
+09-29 01:51:44:147: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935042 
+09-29 01:51:44:147: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935042 
+09-29 01:51:44:148: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935043 
+09-29 01:51:44:149: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935043 
+09-29 01:52:24:149: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935044 
+09-29 01:52:24:149: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935044 
+09-29 01:52:24:149: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935045 
+09-29 01:52:24:149: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935045 
+09-29 01:52:24:154: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935046 
+09-29 01:52:24:154: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935046 
+09-29 01:52:34:143: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935047 
+09-29 01:52:34:144: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935047 
+09-29 01:52:34:144: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935048 
+09-29 01:52:34:144: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935048 
+09-29 01:52:34:150: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935049 
+09-29 01:52:34:150: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935049 
+09-29 01:52:44:145: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935050 
+09-29 01:52:44:145: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935050 
+09-29 01:52:44:145: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935051 
+09-29 01:52:44:145: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935051 
+09-29 01:53:24:154: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935052 
+09-29 01:53:24:154: [Tid=5812][JS->C++|1ms] QueryGameLastArea 8589935052 
+09-29 01:53:24:155: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935053 
+09-29 01:53:24:156: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935053 
+09-29 01:53:24:169: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935054 
+09-29 01:53:24:170: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935054 
+09-29 01:53:34:151: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935055 
+09-29 01:53:34:151: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935055 
+09-29 01:53:34:151: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935056 
+09-29 01:53:34:151: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935056 
+09-29 01:53:34:154: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935057 
+09-29 01:53:34:154: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935057 
+09-29 01:53:44:152: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935058 
+09-29 01:53:44:152: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935058 
+09-29 01:53:44:152: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935059 
+09-29 01:53:44:152: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935059 
+09-29 01:54:24:156: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935060 
+09-29 01:54:24:156: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935060 
+09-29 01:54:24:156: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935061 
+09-29 01:54:24:156: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935061 
+09-29 01:54:24:160: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935062 
+09-29 01:54:24:160: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935062 
+09-29 01:54:34:157: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935063 
+09-29 01:54:34:157: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935063 
+09-29 01:54:34:157: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935064 
+09-29 01:54:34:157: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935064 
+09-29 01:54:34:160: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935065 
+09-29 01:54:34:160: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935065 
+09-29 01:54:44:159: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935066 
+09-29 01:54:44:159: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935066 
+09-29 01:54:44:159: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935067 
+09-29 01:54:44:159: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935067 
+09-29 01:55:24:163: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935068 
+09-29 01:55:24:163: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935068 
+09-29 01:55:24:163: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935069 
+09-29 01:55:24:163: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935069 
+09-29 01:55:24:167: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935070 
+09-29 01:55:24:167: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935070 
+09-29 01:55:34:169: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935071 
+09-29 01:55:34:169: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935071 
+09-29 01:55:34:169: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935072 
+09-29 01:55:34:170: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935072 
+09-29 01:55:34:176: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935073 
+09-29 01:55:34:176: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935073 
+09-29 01:55:44:167: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935074 
+09-29 01:55:44:168: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935074 
+09-29 01:55:44:169: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935075 
+09-29 01:55:44:169: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935075 
+09-29 01:56:24:172: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935076 
+09-29 01:56:24:172: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935077 
+09-29 01:56:24:173: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935076 
+09-29 01:56:24:173: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935077 
+09-29 01:56:24:183: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935078 
+09-29 01:56:24:183: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935078 
+09-29 01:56:34:169: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935079 
+09-29 01:56:34:169: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935079 
+09-29 01:56:34:170: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935080 
+09-29 01:56:34:170: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935080 
+09-29 01:56:34:172: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935081 
+09-29 01:56:34:172: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935081 
+09-29 01:56:44:172: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935082 
+09-29 01:56:44:172: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935082 
+09-29 01:56:44:172: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935083 
+09-29 01:56:44:172: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935083 
+09-29 01:57:24:178: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935084 
+09-29 01:57:24:178: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935084 
+09-29 01:57:24:178: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935085 
+09-29 01:57:24:178: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935085 
+09-29 01:57:24:197: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935086 
+09-29 01:57:24:197: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935086 
+09-29 01:57:34:177: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935087 
+09-29 01:57:34:177: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935087 
+09-29 01:57:34:177: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935088 
+09-29 01:57:34:177: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935088 
+09-29 01:57:34:184: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935089 
+09-29 01:57:34:185: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935089 
+09-29 01:57:44:178: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935090 
+09-29 01:57:44:178: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935090 
+09-29 01:57:44:178: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935091 
+09-29 01:57:44:178: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935091 
+09-29 01:58:24:180: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935092 
+09-29 01:58:24:180: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935092 
+09-29 01:58:24:180: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935093 
+09-29 01:58:24:180: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935093 
+09-29 01:58:24:183: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935094 
+09-29 01:58:24:183: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935094 
+09-29 01:58:34:181: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935095 
+09-29 01:58:34:181: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935095 
+09-29 01:58:34:181: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935096 
+09-29 01:58:34:181: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935096 
+09-29 01:58:34:186: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935097 
+09-29 01:58:34:186: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935097 
+09-29 01:58:44:186: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935098 
+09-29 01:58:44:186: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935098 
+09-29 01:58:44:187: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935099 
+09-29 01:58:44:187: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935099 
+09-29 01:59:24:212: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935100 
+09-29 01:59:24:212: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935100 
+09-29 01:59:24:212: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935101 
+09-29 01:59:24:212: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935101 
+09-29 01:59:24:229: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935102 
+09-29 01:59:24:229: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935102 
+09-29 01:59:34:193: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935103 
+09-29 01:59:34:193: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935103 
+09-29 01:59:34:193: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935104 
+09-29 01:59:34:193: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935104 
+09-29 01:59:34:197: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935105 
+09-29 01:59:34:197: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935105 
+09-29 01:59:44:190: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935106 
+09-29 01:59:44:190: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935106 
+09-29 01:59:44:190: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935107 
+09-29 01:59:44:190: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935107 
+09-29 01:59:49:553: [Tid=7144][Common]AECommon::IsEmulatorExist: exist(0), aow(1)
+09-29 01:59:49:558: [Tid=7144][Common]CConfigFileUpdate::HttpDownloadFileSync: CEasyHttpDownload failed, change to URLDownloadToFile
+09-29 01:59:49:562: [Tid=7144][Common]CConfigFileUpdate::HttpDownloadFileSync, ret(0), url(http://syzs.qq.com/downloads/xml/ConfigFileInfo.xml), file(C:\Users\azfar\AppData\Local\Temp\AppMarket-ConfigFileInfo.xml), hr(0x800c0005), error code(0), report(1)
+09-29 01:59:49:563: [Tid=7144][Common]CConfigFileUpdate::DownloadConfigInfo: bRet(0)
+
+09-29 01:59:49:563: [Tid=7144][Common]CConfigFileUpdate::UpdateConfig: bRet(0), source(7), report(1)
+09-29 01:59:49:563: [Tid=7144][Common]CConfigFileUpdate::UpdateMarketConfig: bRet(0), bFourceAowXml(0)
+09-29 01:59:49:571: [Tid=7144][Common]MarketUiCommon::QueryLastGameName: bRet(0), apk()
+09-29 01:59:49:576: [Tid=7144][Common]Leave Function CApkInstallInfo::IsApkInstalled: retcode(0) 
+
+09-29 01:59:49:577: [Tid=7144][Common]Leave Function CApkInstallInfo::IsApkInstalled: retcode(0) 
+
+09-29 01:59:49:577: [Tid=7144][Common]Leave Function CApkInstallInfo::IsApkInstalled: retcode(0) 
+
+09-29 01:59:49:578: [Tid=7144][Common]CMsgNetWorkEx::EnumPopList: adg_Marketing_pl, |id=70513|
+09-29 01:59:49:578: [Tid=7144][Common]CMsgNetWorkEx::SendMsgNetWork: SimulatorInstallTime = 21873,SceneId = 4, oversea=1
+09-29 01:59:49:747: [Tid=2860][Common]CMsgNetWorkEx::OnNetworkResponse:failed errocode = 8
+
+09-29 01:59:51:578: [Tid=7144][Common]CMsgNetWorkEx::SendMsgNetWork: WAIT_TIMEOUT
+09-29 01:59:51:654: [Tid=2860][Error]CAccuateProtocol::OnAowSwitchResponse: dwError(8)
+09-29 01:59:51:654: [Tid=2860][Error]CAccuateProtocol::OnGameRecommendSwitchResponse: dwError(8)
+09-29 02:00:24:194: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935108 
+09-29 02:00:24:195: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935108 
+09-29 02:00:24:195: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935109 
+09-29 02:00:24:195: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935109 
+09-29 02:00:24:209: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935110 
+09-29 02:00:24:210: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935110 
+09-29 02:00:34:194: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935111 
+09-29 02:00:34:194: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935111 
+09-29 02:00:34:194: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935112 
+09-29 02:00:34:195: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935112 
+09-29 02:00:34:198: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935113 
+09-29 02:00:34:198: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935113 
+09-29 02:00:44:195: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935114 
+09-29 02:00:44:196: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935114 
+09-29 02:00:44:196: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935115 
+09-29 02:00:44:196: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935115 
+09-29 02:01:24:201: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935116 
+09-29 02:01:24:201: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935116 
+09-29 02:01:24:201: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935117 
+09-29 02:01:24:201: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935117 
+09-29 02:01:24:205: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935118 
+09-29 02:01:24:205: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935118 
+09-29 02:01:34:201: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935119 
+09-29 02:01:34:202: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935119 
+09-29 02:01:34:202: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935120 
+09-29 02:01:34:202: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935120 
+09-29 02:01:34:205: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935121 
+09-29 02:01:34:205: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935121 
+09-29 02:01:44:202: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935122 
+09-29 02:01:44:202: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935122 
+09-29 02:01:44:202: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935123 
+09-29 02:01:44:202: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935123 
+09-29 02:02:24:205: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935124 
+09-29 02:02:24:205: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935124 
+09-29 02:02:24:206: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935125 
+09-29 02:02:24:206: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935125 
+09-29 02:02:24:210: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935126 
+09-29 02:02:24:210: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935126 
+09-29 02:02:34:210: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935127 
+09-29 02:02:34:210: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935127 
+09-29 02:02:34:210: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935128 
+09-29 02:02:34:210: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935128 
+09-29 02:02:34:214: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935129 
+09-29 02:02:34:214: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935129 
+09-29 02:02:44:207: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935130 
+09-29 02:02:44:207: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935130 
+09-29 02:02:44:207: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935131 
+09-29 02:02:44:207: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935131 
+09-29 02:03:24:219: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935132 
+09-29 02:03:24:219: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935132 
+09-29 02:03:24:219: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935133 
+09-29 02:03:24:219: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935133 
+09-29 02:03:24:224: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935134 
+09-29 02:03:24:225: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935134 
+09-29 02:03:34:218: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935135 
+09-29    .idata$4\       .idata$6ä      .text   h      .data          .bss    P       .idata$7      .idata$5Ä       .idata$4D       .idata$6l      .text   p      .data          .bss    P       .idata$7      .idata$5Ì       .idata$4L       .idata$6Š      .text   x      .data          .bss    P       .idata$7      .idata$5Ğ       .idata$4P       .idata$6      .text   €      .data          .bss    P       .idata$7(      .idata$5è       .idata$4h       .idata$6"      .text   ˆ      .data          .bss    P       .idata$7$      .idata$5ä       .idata$4d       .idata$6      .text         .data          .bss    P       .idata$7       .idata$5À       .idata$4@       .idata$6T      .text   ˜      .data          .bss    P       .idata$7       .idata$5à       .idata$4`       .idata$6      .text          .data          .bss    P       .idata$7      .idata$5È       .idata$4H       .idata$6z      .text   ¨      .data          .bss    P       .idata$7      .idata$5Ø       .idata$4X       .idata$6Ì      .text   °      .data          .bss    P       .idata$7ü      .idata$5¼       .idata$4<       .idata$6<      .text   ¸      .data          .bss    P       .idata$7      .idata$5Ô       .idata$4T       .idata$6°      .file   Ï  şÿ  gfake              hname   <       fthunk  ¼       .text   À                       .data                           .bss    P                        .idata$2                       .idata$4<       .idata$5¼       .file   İ  şÿ  gfake              .text   À                       .data                           .bss    P                        .idata$4l                       .idata$5ì                       .idata$7,                      .file   ÷  şÿ  gcygming-crtend.c      ¬             ¹  À                       .text   À                       .data                           .bss    P                        .jcr                               Î  À     	                    Ü  Ô                         Ú   (                      .text            .data          .bss    P       .idata$7H      .idata$5ü       .idata$4|       .idata$6`      __cexit           é  ˆ          ü  <1@ ÿÿ                   +              :  Ü      _free   X          I  ä           b      ÿÿ       “            ¢             ®  È           Ä  `          ã  è           ú              	  à             „          2  Ô           U  °          n  <          ‚        ___xl_c                  ÿÿ       §     ÿÿ       À      ÿÿ       Ú     ÿÿ       ö                                      ___xl_z            *             :  ô           N  €          _             x            „  p          ˜              ¦  <      _scanf             É     ÿÿ       á            ï  Ğ             x                       +             ;  0      __dll__     ÿÿ       I      ÿÿ   _fwrite 0          ^            l                 @ ÿÿ            ÿÿ   _memcpy H          ¤  <          °  <1@ ÿÿ       Î  ø       __argc             à              ì  h          û               ğ      ___xl_a         ___xl_d              Ğ          %      ÿÿ   __CRT_MT(           5  `           A             M  ,          Z              j             v          __argv              ˆ  Ğ      _calloc P      __fmode            —      ÿÿ       ª  $          ¸     ÿÿ       Ë  Ø           é     ÿÿ       ş  ¼                    __end__              Ì       _signal           0  Ü          >            V     ÿÿ       o                 @ ÿÿ            ÿÿ       œ        _abort  @          ª                              ¿  ğ           Ô              á  Ä           ö             	  ¸          +	             ;	            G	  Ü           l	     ÿÿ       „	      ÿÿ       •	               	  ø          ª	  (          ¸	              Í	  <          ß	             í	      ÿÿ       	
+      ÿÿ       !
+  4          1
+  ü           G
+             _
+  ˜          n
+  ¼           
+  ¨      _printf (          ¥
+  <          Ç
+  ,          İ
+  <           ö
+                            8            À           9         G  .eh_frame .debug_aranges .debug_info .debug_abbrev .debug_line ___mingw_CRTStartup __gnu_exception_handler@4 _mainCRTStartup _WinMainCRTStartup .eh_frame ___JCR_LIST__ ___gcc_register_frame ___gcc_deregister_frame .rdata$zzz ___dyn_tls_dtor@12 ___dyn_tls_init@12 ___tlregdtor ___cpu_features_init __fpreset ___report_error ___write_memory.part.0 __pei386_runtime_relocator _was_init.31048 ___do_global_dtors ___do_global_ctors _initialized ___mingwthr_run_key_dtors.part.0 ___mingwthr_cs _key_dtor_list ____w64_mingwthr_add_key_dtor ___mingwthr_cs_init ____w64_mingwthr_remove_key_dtor ___mingw_TLScallback pseudo-reloc-list.c .debug_info .debug_abbrev .debug_aranges .debug_line ___JCR_END__ _register_frame_ctor .text.startup .ctors.65535 _VirtualProtect@16 ___RUNTIME_PSEUDO_RELOC_LIST__ __imp___setmode __data_start__ ___DTOR_LIST__ __imp__VirtualProtect@16 .weak.__Jv_RegisterClasses.___gcc_register_frame __imp___onexit ___p__fmode __imp__GetLastError@0 _SetUnhandledExceptionFilter@4 __imp__VirtualQuery@12 ___tls_start__ __imp__TlsGetValue@4 __libmsvcrt_a_iname __imp__InitializeCriticalSection@4 _DeleteCriticalSection@4 __rt_psrelocs_start __imp__abort __dll_characteristics__ __size_of_stack_commit__ __size_of_stack_reserve__ __major_subsystem_version__ ___crt_xl_start__ ___crt_xi_start__ ___crt_xi_end__ _GetLastError@0 __imp____p__environ _VirtualQuery@12 _mingw_initltsdrot_force __imp___iob _GetModuleHandleA@4 __bss_start__ ___RUNTIME_PSEUDO_RELOC_LIST_END__ __size_of_heap_commit__ ___p__environ __imp__GetProcAddress@8 _GetProcAddress@8 ___crt_xp_start__ ___crt_xp_end__ __imp__signal __minor_os_version__ __imp__atexit __head_libmsvcrt_a __image_base__ __section_alignment__ __IAT_end__ __RUNTIME_PSEUDO_RELOC_LIST__ __imp____p__fmode __tls_start _ExitProcess@4 __data_end__ ___getmainargs __CTOR_LIST__ ___set_app_type __bss_end__ __CRT_fmode __imp__scanf ___crt_xc_end__ __tls_index ___crt_xc_start__ ___CTOR_LIST__ __rt_psrelocs_size __imp__memcpy __file_alignment__ __imp__LeaveCriticalSection@4 __major_os_version__ __IAT_start__ __tls_end __imp__GetModuleHandleA@4 __DTOR_LIST__ _EnterCriticalSection@4 __size_of_heap_reserve__ ___crt_xt_start__ ___ImageBase __subsystem__ __imp__calloc __Jv_RegisterClasses __imp____getmainargs ___tls_end__ __imp__ExitProcess@4 _mingw_initltssuo_force _InitializeCriticalSection@4 ___cpu_features __imp__free __imp__SetUnhandledExceptionFilter@4 __major_image_version__ __loader_flags__ __CRT_glob __setmode __imp__printf __head_libkernel32_a __rt_psrelocs_end __imp___cexit __minor_subsystem_version__ __minor_image_version__ __imp__vfprintf __imp____set_app_type _mingw_initltsdyn_force _TlsGetValue@4 __imp__DeleteCriticalSection@4 _LeaveCriticalSection@4 __RUNTIME_PSEUDO_RELOC_LIST_END__ __libkernel32_a_iname ___dyn_tls_init_callback __tls_used ___crt_xt_end__ _vfprintf __imp__EnterCriticalSection@4 __imp__fwrite 

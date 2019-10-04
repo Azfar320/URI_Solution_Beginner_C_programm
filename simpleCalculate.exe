@@ -1,0 +1,260 @@
+<Item ApkName="com.tencent.tmgp.mt4" 备注="MT4">
+<VersionInfo Version="5"/>
+<LastMode ForwardRawInput="1"/>
+<KeyMapMode ModeID="1" >
+<KeyMappingEx Point_X="0.5" Point_Y="0.5" ItemName="鼠标滚轮" HideTipsAlways="1" Type="WheelZoom" Offset="0.100000" Speed="10.000000" />
+</KeyMapMode>
+</Item>
+
+<Item ApkName="com.tencent.tmgp.mt4.syzs_ios" 备注="MT4_IOS">
+<VersionInfo Version="5"/>
+<LastMode ForwardRawInput="1"/>
+<KeyMapMode ModeID="1" >
+<KeyMappingEx Point_X="0.5" Point_Y="0.5" ItemName="鼠标滚轮" HideTipsAlways="1" Type="WheelZoom" Offset="0.100000" Speed="10.000000" />
+</KeyMapMode>
+</Item>
+
+<Item ApkName="com.tencent.tmgp.ffom" 备注="自由幻想">
+<VersionInfo Version="3"/>
+<LastMode ForwardRawInput="1" />
+</Item>
+
+<Item ApkName="com.tencent.wok" 备注="万王之王3D">
+<VersionInfo Version="2"/>
+<LastMode ForwardRawInput="1" ForwardRawMouseInput="1" />
+</Item>
+
+<Item ApkName="com.tencent.pao" 备注="天天酷跑">
+<KeyMapMode ModeID="1" Name="普通模式">
+<KeyMapping AsciiCode="87" Point_X="0.0821" Point_Y="0.3205" Description="释放技能"/>
+<KeyMapping AsciiCode="69" Point_X="0.0830" Point_Y="0.5336" Description="对战工具"/>
+<KeyMapping AsciiCode="80" Point_X="0.9311" Point_Y="0.0688" Description="暂停"/>
+<KeyMapping AsciiCode="74" Point_X="0.8896" Point_Y="0.8339" Description="跳跃"/>
+<KeyMapping AsciiCode="70" Point_X="0.0915" Point_Y="0.8322" Description="滑行"/>
+<Gamepad Point_X="0.962891" Point_Y="0.074653" Description="手柄按键" Type="Start"/>
+<Gamepad Point_X="0.082031" Point_Y="0.309028" Description="手柄按键" Type="LT"/>
+<Gamepad Point_X="0.098633" Point_Y="0.569444" Description="手柄按键" Type="LB"/>
+<Gamepad Point_X="0.906250" Point_Y="0.836806" Description="手柄按键" Type="X"/>
+<Gamepad Point_X="0.088867" Point_Y="0.838542" Description="手柄按键" Type="A"/>
+</KeyMapMode>
+<NewGuide FilePath="\NewGuide\com.tencent.pao.png"/>
+</Item>
+
+<Item ApkName="com.tencent.wefire" 备注="全民突击">
+<KeyMapMode ModeID="1" Name="普通键位模式">
+<KeyMapping AsciiCode="81" Point_X="0.9307" Point_Y="0.0677" Description="切换武器"/>
+<KeyMapping AsciiCode="65" Point_X="0.0518" Point_Y="0.4253" Description="左移"/>
+<KeyMapping AsciiCode="82" Point_X="0.6338" Point_Y="0.8802" Description="子弹"/>
+<KeyMapping AsciiCode="17" Point_X="0.7461" Point_Y="0.8837" Description="蹲下"/>
+<KeyMapping AsciiCode="49" Point_X="0.2025" Point_Y="0.8939" Description="道具1"/>
+<KeyMapping AsciiCode="50" Point_X="0.2915" Point_Y="0.8939" Description="道具2"/>
+<KeyMapping AsciiCode="51" Point_X="0.3845" Point_Y="0.8939" Description="道具3"/>
+<KeyMapping AsciiCode="68" Point_X="0.9450" Point_Y="0.4365" Description="右移"/>
+<KeyMappingEx Type="LClick" Point_X="0.8887" Point_Y="0.8507"/>
+<KeyMappingEx Type="RClick" Point_X="0.5000" Point_Y="0.5000"/>
+</KeyMapMode>
+<KeyMapMode ModeID="2" Name="自由移动键位模式">
+<KeyMapping AsciiCode="49" Point_X="0.5312" Point_Y="0.8817"/>
+<KeyMapping AsciiCode="50" Point_X="0.6222" Point_Y="0.8817"/>
+<KeyMapping AsciiCode="81" Point_X="0.9264" Point_Y="0.1339"/>
+<KeyMapping AsciiCode="82" Point_X="0.9382" Point_Y="0.3148"/>
+<KeyMapping AsciiCode="32" Point_X="0.9421" Point_Y="0.4887"/>
+<KeyMapping AsciiCode="17" Point_X="0.2661" Point_Y="0.8800"/>
+<KeyMappingEx Type="CrossKey" Point_X="0.0795" Point_Y="0.7098" UP_AsciiCode="87" DOWN_AsciiCode="83" LEFT_AsciiCode="65" RIGHT_AsciiCode="68"/>
+<KeyMappingEx Type="LClick" Point_X="0.8887" Point_Y="0.8507"/>
+<KeyMappingEx Type="RClick" Point_X="0.7496" Point_Y="0.4995"/>
+</KeyMapMode>
+<NewGuide FilePath="\NewGuide\com.tencent.wefire.png"/>
+</Item>
+
+<Item ApkName="com.tencent.game.SSGame" 备注="天天飞车">
+<KeyMapMode ModeID="1" Name="普通模式">
+<KeyMapping AsciiCode="80" Point_X="0.0186" Point_Y="0.0434" Description="暂停"/>
+<KeyMapping AsciiCode="38" Point_X="0.4902" Point_Y="0.5052" Description="加速"/>
+<KeyMapping AsciiCode="32" Point_X="0.8936" Point_Y="0.4410" Description="跳跃"/>
+<KeyMapping AsciiCode="39" Point_X="0.8955" Point_Y="0.7431" Description="向右"/>
+<KeyMapping AsciiCode="37" Point_X="0.0996" Point_Y="0.7049" Description="向左"/>
+<KeyMapping AsciiCode="70" Point_X="0.6963" Point_Y="0.8576" Description="MAX速度"/>
+<KeyMapping AsciiCode="69" Point_X="0.0879" Point_Y="0.4375" Description="愤怒"/>
+</KeyMapMode>
+<KeyMapMode ModeID="2" Name="火力模式">
+<KeyMapping AsciiCode="49" Point_X="0.0986" Point_Y="0.8490"/>
+<KeyMapping AsciiCode="50" Point_X="0.2275" Point_Y="0.8524"/>
+<KeyMapping AsciiCode="69" Point_X="0.0928" Point_Y="0.6163"/>
+</KeyMapMode>
+<KeyMapMode ModeID="3" Name="漂移模式">
+<KeyMapping AsciiCode="37" Point_X="0.1064" Point_Y="0.8333"/>
+<KeyMapping AsciiCode="39" Point_X="0.8965" Point_Y="0.8385"/>
+<KeyMapping AsciiCode="65" Point_X="0.1035" Point_Y="0.5503"/>
+<KeyMapping AsciiCode="68" Point_X="0.8926" Point_Y="0.5503"/>
+<KeyMapping AsciiCode="80" Point_X="0.9736" Point_Y="0.0573"/>
+<KeyMapping AsciiCode="32" Point_X="0.7715" Point_Y="0.6406"/>
+</KeyMapMode>
+<NewGuide FilePath="\NewGuide\com.tencent.game.SSGame.png"/>
+</Item>
+
+<Item ApkName="com.tencent.tmgp.rxcq" 备注="热血传奇">
+<KeyMapMode ModeID="1" Name="普通模式">
+<KeyMapping AsciiCode="79" Point_X="0.9082" Point_Y="0.6649" Description="技能3"/>
+<KeyMapping AsciiCode="73" Point_X="0.8594" Point_Y="0.7483" Description="技能2"/>
+<KeyMapping AsciiCode="74" Point_X="0.8359" Point_Y="0.8698" Description="技能1"/>
+<KeyMapping AsciiCode="75" Point_X="0.9375" Point_Y="0.8385" Description="进攻"/>
+<KeyMappingEx Type="CrossKey" Point_X="0.1367" Point_Y="0.6944" UP_AsciiCode="87" DOWN_AsciiCode="83" LEFT_AsciiCode="65" RIGHT_AsciiCode="68"/>
+<Gamepad Point_X="0.939453" Point_Y="0.526042" Description="自动战斗" Type="Start"/>
+<Gamepad Point_X="0.502930" Point_Y="0.902778" Description="菜单" Type="Back"/>
+<Gamepad Point_X="0.842773" Point_Y="0.864583" Description="技能3" Type="X"/>
+<Gamepad Point_X="0.858398" Point_Y="0.751736" Description="技能2" Type="Y"/>
+<Gamepad Point_X="0.906250" Point_Y="0.656250" Description="技能1" Type="B"/>
+<Gamepad Point_X="0.936523" Point_Y="0.845486" Description="攻击" Type="A"/>
+<Gamepad Point_X="0.164063" Point_Y="0.770833" Description="移动" Type="LeftJoystick" Loop="0"/>
+</KeyMapMode>
+<NewGuide FilePath="\NewGuide\com.tencent.tmgp.rxcq.png"/>
+</Item>
+
+<Item ApkName="com.tencent.tmgp.sm.hqg" 备注="花千骨">
+<KeyMapMode ModeID="1" Name="普通模式">
+<KeyMapping AsciiCode="48" Point_X="0.9502" Point_Y="0.3698" Description="35级仙术"/>
+<KeyMapping AsciiCode="57" Point_X="0.9502" Point_Y="0.5208" Description="25级仙术"/>
+<KeyMapping AsciiCode="56" Point_X="0.9492" Point_Y="0.6597" Description="仙术4"/>
+<KeyMapping AsciiCode="75" Point_X="0.9102" Point_Y="0.8594" Description="进攻"/>
+<KeyMapping AsciiCode="79" Point_X="0.8643" Point_Y="0.6615" Description="仙术3"/>
+<KeyMapping AsciiCode="73" Point_X="0.8018" Point_Y="0.7830" Description="仙术2"/>
+<KeyMapping AsciiCode="74" Point_X="0.7900" Point_Y="0.9288" Description="仙术1"/>
+<KeyMappingEx Type="CrossKey" Point_X="0.1367" Point_Y="0.6944" UP_AsciiCode="87" DOWN_AsciiCode="83" LEFT_AsciiCode="65" RIGHT_AsciiCode="68"/>
+</KeyMapMode>
+<NewGuide FilePath="\NewGuide\com.tencent.tmgp.sm.hqg.png"/>
+</Item>
+
+<Item ApkName="com.tencent.feiji" 备注="全民飞机大战">
+<KeyMapMode ModeID="1" Name="普通模式">
+<KeyMapping AsciiCode="82" Point_X="0.3239" Point_Y="0.5046"/>
+<KeyMapping AsciiCode="81" Point_X="0.6258" Point_Y="0.9267"/>
+<KeyMapping AsciiCode="80" Point_X="0.1076" Point_Y="0.0503"/>
+<KeyMappingEx Type="RClick2" Point_X="0.5" Point_Y="0.5"/>
+</KeyMapMode>
+<NewGuide FilePath="\NewGuide\com.tencent.feiji.png"/>
+</Item>
+
+<Item ApkName="com.tencent.clover" 备注="雷霆战机">
+<KeyMapMode ModeID="1" Name="普通模式">
+<KeyMapping AsciiCode="81" Point_X="0.8974" Point_Y="0.8766"/>
+<KeyMapping AsciiCode="80" Point_X="0.0241" Point_Y="0.9106"/>
+<KeyMappingEx Type="RClick2" Point_X="0.5" Point_Y="0.5"/>
+</KeyMapMode>
+<NewGuide FilePath="\NewGuide\com.tencent.clover.png"/>
+</Item>
+
+<Item ApkName="com.tencent.game.VXDGame" 备注="天天炫斗">
+<KeyMapMode ModeID="1" Name="普通模式">
+<KeyMapping AsciiCode="73" Point_X="0.8193" Point_Y="0.6701" Description="技能2"/>
+<KeyMapping AsciiCode="74" Point_X="0.7900" Point_Y="0.8837" Description="技能1"/>
+<KeyMapping AsciiCode="75" Point_X="0.9131" Point_Y="0.8333" Description="攻击"/>
+<KeyMapping AsciiCode="79" Point_X="0.9434" Point_Y="0.6094" Description="技能3"/>
+<KeyMapping AsciiCode="85" Point_X="0.9453" Point_Y="0.4531" Description="呼唤伙伴"/>
+<KeyMapping AsciiCode="72" Point_X="0.6748" Point_Y="0.8819" Description="技能4"/>
+<KeyMapping AsciiCode="67" Point_X="0.5723" Point_Y="0.8924" Description="加血"/>
+<KeyMappingEx Type="CrossKey" Point_X="0.1514" Point_Y="0.7378" UP_AsciiCode="87" DOWN_AsciiCode="83" LEFT_AsciiCode="65" RIGHT_AsciiCode="68"/>
+<Gamepad Point_X="0.568359" Point_Y="0.895833" Description="手柄按键" Type="LT"/>
+<Gamepad Point_X="0.679688" Point_Y="0.894097" Description="手柄按键" Type="LB"/>
+<Gamepad Point_X="0.930664" Point_Y="0.409722" Description="手柄按键" Type="RB"/>
+<Gamepad Point_X="0.789063" Point_Y="0.890625" Description="手柄按键" Type="X"/>
+<Gamepad Point_X="0.824219" Point_Y="0.666667" Description="手柄按键" Type="Y"/>
+<Gamepad Point_X="0.933594" Point_Y="0.571181" Description="手柄按键" Type="B"/>
+<Gamepad Point_X="0.913086" Point_Y="0.828125" Description="手柄按键" Type="A"/>
+<Gamepad Point_X="0.152344" Point_Y="0.743056" Description="" Type="LeftJoystick" Loop="0"/>
+</KeyMapMode>
+<NewGuide FilePath="\NewGuide\com.tencent.game.VXDGame.png"/>
+</Item>
+
+<Item ApkName="com.tencent.tmgp.gods" 备注="全民超神">
+<KeyMapMode ModeID="1" Name="普通模式">
+<KeyMapping AsciiCode="81" Point_X="0.8818" Point_Y="0.7969" Description="进攻"/>
+<KeyMapping AsciiCode="69" Point_X="0.9092" Point_Y="0.5365" Description="技能3"/>
+<KeyMapping AsciiCode="87" Point_X="0.7998" Point_Y="0.6563" Description="技能2"/>
+<KeyMapping AsciiCode="82" Point_X="0.7295" Point_Y="0.8438" Description="技能1"/>
+<KeyMapping AsciiCode="66" Point_X="0.4805" Point_Y="0.9063" Description="回城"/>
+<KeyMapping AsciiCode="70" Point_X="0.5654" Point_Y="0.9097" Description="恢复"/>
+</KeyMapMode>
+<NewGuide FilePath="\NewGuide\com.tencent.tmgp.gods.png"/>
+</Item>
+
+<Item ApkName="com.tencent.tmgp.sgame" 备注="王者荣耀">
+<VersionInfo Version="3"/>
+<KeyMapMode ModeID="1" Name="普通模式">
+<KeyMapping Point_X="0.896956" Point_Y="0.864583" Description="召唤师技能" AsciiCode="32"/>
+<KeyMapping Point_X="0.697266" Point_Y="0.776042" Description="升级技能1" AsciiCode="49"/>
+<KeyMapping Point_X="0.753906" Point_Y="0.592014" Description="升级技能2" AsciiCode="50"/>
+<KeyMapping Point_X="0.859375" Point_Y="0.480903" Description="升级技能3" AsciiCode="51"/>
+<KeyMapping Point_X="0.104492" Point_Y="0.399306" Description="购买物品1" AsciiCode="52"/>
+<KeyMapping Point_X="0.104492" Point_Y="0.513889" Description="购买物品2" AsciiCode="53"/>
+<KeyMapping Point_X="0.506836" Point_Y="0.895833" Description="回城" AsciiCode="66"/>
+<KeyMapping Point_X="0.581055" Point_Y="0.897569" Description="治疗" AsciiCode="69"/>
+<KeyMapping Point_X="0.806641" Point_Y="0.696181" Description="技能2" AsciiCode="73"/>
+<KeyMapping Point_X="0.747070" Point_Y="0.881944" Description="技能1" AsciiCode="74"/>
+<KeyMapping Point_X="0.662763" Point_Y="0.900000" Description="普通攻击" AsciiCode="75"/>
+<KeyMapping Point_X="0.912109" Point_Y="0.581597" Description="技能3" AsciiCode="79"/>
+<KeyMappingEx Point_X="0.139648" Point_Y="0.791667" Description="移动" Type="CrossKey" UP_AsciiCode="87" DOWN_AsciiCode="83" LEFT_AsciiCode="65" RIGHT_AsciiCode="68" Offset="80"/>
+<Gamepad Point_X="0.103516" Point_Y="0.402778" Description="购买物品1" Type="Start"/>
+<Gamepad Point_X="0.104492" Point_Y="0.519097" Description="购买物品2" Type="Back"/>
+<Gamepad Point_X="0.696289" Point_Y="0.774306" Description="升级技能1" Type="Left"/>
+<Gamepad Point_X="0.861328" Point_Y="0.480903" Description="升级技能3" Type="Right"/>
+<Gamepad Point_X="0.754883" Point_Y="0.585069" Description="升级技能2" Type="Up"/>
+<Gamepad Point_X="0.829102" Point_Y="0.911458" Description="补刀" Type="X"/>
+<Gamepad Point_X="0.581055" Point_Y="0.897569" Description="治疗" Type="Y"/>
+<Gamepad Point_X="0.960938" Point_Y="0.711806" Description="推塔" Type="B"/>
+<Gamepad Point_X="0.914063" Point_Y="0.854167" Description="普通攻击" Type="A"/>
+<Gamepad Point_X="0.123047" Point_Y="0.793403" Description="移动" Type="LeftJoystick" Loop="0"/>
+<GamepadEx Point_X="0.759766" Point_Y="0.246528" Description="镜头移动" Type="JoystickSkill" Button="LT" Offset="0.400000" LeftJoystick="0"/>
+<GamepadEx Point_X="0.912109" Point_Y="0.585069" Description="技能3" Type="JoystickSkill" Button="LB" LeftJoystick="0"/>
+<GamepadEx Point_X="0.808594" Point_Y="0.692708" Description="技能2" Type="JoystickSkill" Button="RT" LeftJoystick="0"/>
+<GamepadEx Point_X="0.747070" Point_Y="0.878472" Description="技能1" Type="JoystickSkill" Button="RB" LeftJoystick="0"/>
+<GamepadEx Point_X="0.659180" Point_Y="0.897569" Description="召唤师技能" Type="JoystickSkill" Button="Down" LeftJoystick="0"/>
+<GamepadEx Point_X="0.923828" Point_Y="0.053819" Description="战况" NoDelete="1" SpecialFunc="0" OpGuidClass="0" Type="GamepadMulti" Button1="LT" Button2="RT" EnablePressRelease="1" Release_X="0.927623" Release_Y="0.131206"/>
+<GamepadEx Point_X="0.199219" Point_Y="0.295139" Description="大地图" NoDelete="1" SpecialFunc="0" OpGuidClass="0" Type="GamepadMulti" Button1="LT" Button2="RB" EnablePressRelease="1" Release_X="0.478516" Release_Y="0.678819"/>
+<GamepadEx Point_X="0.926758" Point_Y="0.399306" Description="物品技能" Type="GamepadMulti" Button1="LT" Button2="X"/>
+<GamepadEx Point_X="0.506836" Point_Y="0.895833" Description="回城" Type="GamepadMulti" Button1="LT" Button2="Y"/>
+</KeyMapMode>
+<KeyMapMode ModeID="2" Name="智能施法模式">
+<KeyMapping Point_X="0.914063" Point_Y="0.855903" Description="普通攻击" NoDelete="1" SpecialFunc="0" OpGuidClass="2" AsciiCode="32"/>
+<KeyMapping Point_X="0.693359" Point_Y="0.776042" Description="升级技能1" AsciiCode="49"/>
+<KeyMapping Point_X="0.755859" Point_Y="0.592014" Description="升级技能2" AsciiCode="50"/>
+<KeyMapping Point_X="0.860352" Point_Y="0.482639" Description="升级技能3" AsciiCode="51"/>
+<KeyMapping Point_X="0.104492" Point_Y="0.399306" Description="购买物品1" AsciiCode="52"/>
+<KeyMapping Point_X="0.104492" Point_Y="0.513889" Description="购买物品2" AsciiCode="53"/>
+<KeyMapping Point_X="0.506836" Point_Y="0.895833" Description="回城" AsciiCode="66"/>
+<KeyMapping Point_X="0.581055" Point_Y="0.897569" Description="治疗" AsciiCode="68"/>
+<KeyMapping Point_X="0.830078" Point_Y="0.911458" Description="补刀" AsciiCode="82"/>
+<KeyMapping Point_X="0.959961" Point_Y="0.708333" Description="推塔" AsciiCode="84"/>
+<KeyMapping Point_X="0.905273" Point_Y="0.392361" Description="物品技能" AsciiCode="86"/>
+<KeyMappingEx Point_X="0.141602" Point_Y="0.789931" Description="右键移动" Type="CrossKey2" Offset="100" Click_X="0.500000" Click_Y="0.500000" Click_Offset="0.400000" Click_Left="0"/>
+<KeyMappingEx Point_X="0.912109" Point_Y="0.585069" Description="技能3" NoDelete="1" SpecialFunc="0" OpGuidClass="1" Type="KeyMove" Offset="100" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="69" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="-28.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="0"/>
+<KeyMappingEx Point_X="0.659180" Point_Y="0.897569" Description="召唤师技能" NoDelete="1" SpecialFunc="0" OpGuidClass="1" Type="KeyMove" Offset="100" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="70" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="0"/>
+<Ka                           .bss                            .rdata  L      �                     �   �     �                .file   �   ��  ggccmain.c             �   	                       _p.1761            �  P	      ___main �	          �  $       .text    	     �   
+             .data                         .bss    $                           �   @     h                .file   �   ��  gcrtst.c           .text   �	                       .data                           .bss    (                       .file   �   ��  gtlsthrd.c             �  �	                           �  0           �  H           �   
+            ,           -  �
+          N  @      .text   �	       #             .data                           .bss    ,                            �   �     �                .file   �   ��  g    c            .text   �                       .data                           .bss    L                       .file   Q  ��  glibgcc2.c         .text   �                       .data                           .bss    P                            w      
+   �                   �         �                     �      	                       �         �                     �                          .text   �      .data          .bss    P       .idata$7P      .idata$5      .idata$4�       .idata$6|      .text   �      .data          .bss    P       .idata$7`      .idata$5      .idata$4�       .idata$6�      .text   �      .data          .bss    P       .idata$7T      .idata$5      .idata$4�       .idata$6�      .text   �      .data          .bss    P       .idata$7<      .idata$5�       .idata$4p       .idata$62      .text   �      .data          .bss    P       .idata$7X      .idata$5      .idata$4�       .idata$6�      .text   �      .data          .bss    P       .idata$7D      .idata$5�       .idata$4x       .idata$6R      .text   �      .data          .bss    P       .idata$7@      .idata$5�       .idata$4t       .idata$6B      .text          .data          .bss    P       .idata$7L      .idata$5       .idata$4�       .idata$6r      .text         .data          .bss    P       .idata$7|      .idata$50      .idata$4�       .idata$6�      .text         .data          .bss    P       .idata$7x      .idata$5,      .idata$4�       .idata$6�      .text         .data          .bss    P       .idata$7t      .idata$5(      .idata$4�       .idata$6�      .text          .data          .bss    P       .idata$7l      .idata$5       .idata$4�       .idata$6�      .text   (      .data          .bss    P       .idata$7�      .idata$54      .idata$4�       .idata$6�      .text   0      .data          .bss    P       .idata$7\      .idata$5      .idata$4�       .idata$6�      .text   8      .data          .bss    P       .idata$7p      .idata$5$      .idata$4�       .idata$6�      .text   @      .data          .bss    P       .idata$7d      .idata$5      .idata$4�       .idata$6�      .text   H      .data          .bss    P       .idata$7h      .idata$5      .idata$4�       .idata$6�      .file   _  ��  gfake              hname   p       fthunk  �       .text   P                       .data                           .bss    P                        .idata$2                      .idata$4p       .idata$5�       .file   �  ��  gfake              .text   P                       .data                           .bss    P                        .idata$4�                       .idata$58                      .idata$7�                      .text   P      .data          .bss    P       .idata$7      .idata$5�       .idata$4\       .idata$6�      .text   X      .data          .bss    P       .idata$7      .idata$5�       .idata$4D       .idata$6l      .text   `      .data          .bss    P       .idata$7      .idata$5�       .idata$4L       .idata$6�      .text   h      .data          .bss    P       .idata$7      .idata$5�       .idata$4P       .idata$6�      .text   p      .data          .bss    P       .idata$7(      .idata$5�       .idata$4h       .idata$6"      .text   x      .data          .bss    P       .idata$7$      .idata$5�       .idata$4d       .idata$6      .text   �      .data          .bss    P       .idata$7       .idata$5�       .idata$4@       .idata$6T      .text   �      .data          .bss    P       .idata$7       .idata$5�       .idata$4`       .idata$6      .text   �      .data          .bss    P       .idata$7      .idata$5�       .idata$4H       .idata$6z      .text   �      .data          .bss    P       .idata$7      .idata$5�       .idata$4X       .idata$6�      .text   �      .data          .bss    P       .idata$7�      .idata$5�       .idata$4<       .idata$6<      .text   �      .data          .bss    P       .idata$7      .idata$5�       .idata$4T       .idata$6�      .file   �  ��  gfake              hname   <       fthunk  �       .text   �                       .data                           .bss    P                        .idata$2                       .idata$4<       .idata$5�       .file   �  ��  gfake              .text   �                       .data                           .bss    P                        .idata$4l                       .idata$5�                       .idata$7,                      .file   �  ��  gcygming-crtend.c      �             �  �                       .text   �                       .data                           .bss    P                        .jcr                               �  �     	                    �  �                         �   4                      .text            .data          .bss    P       .idata$7H      .idata$5�       .idata$4|       .idata$6`      __cexit            �  x          �  H1@ ��                   +              :  �      _free   H          I  �           b      ��       �            �  �          �  �           �  P          �  �           �              	  �             �          2  �           U  �          n  H          �        ___xl_c            �      ��       �     ��       �      ��       �     ��       �                                      ___xl_z            *  �          :  �           N  p          _             x            �  `          �              �  H      _scanf            �     ��       �  �          �  �             h                       +             ;  0      __dll__     ��       I      ��   _fwrite            ^            l                 @ ��       �     ��   _memcpy 8          �  <          �  H1@ ��       �  �       __argc             �              �  X          �               �      ___xl_a         ___xl_d              �          %      ��   __CRT_MT(           5  `           A             M  ,          Z              j             v          __argv              �  �      _calloc @      __fmode            �      ��       �  $          �     ��       �  �           �     ��       �  �                    __end__              �       _signal           0  �          >  �          V     ��       o             �    @ ��       �     ��       �        _abortPoint_X="0.976563" Point_Y="0.126389" Description="手柄按键" Type="GameSir-C1-ATTACK"/>
+		<Gamepad ItemName="撤退" Point_X="0.975781" Point_Y="0.211111" Description="手柄按键" Type="GameSir-C1-RETREAT"/>
+		<Gamepad ItemName="集合" Point_X="0.975781" Point_Y="0.288889" Description="手柄按键" Type="GameSir-C1-CLUMP"/>
+		<Gamepad ItemName="团队属性" Point_X="0.697656" Point_Y="0.037500" Description="手柄按键" Type="GameSir-C1-TEAM-ATTRIBUTES" HasNextClickPoint="1" NextClickPoint_X="0.075000" NextClickPoint_Y="0.162500" EnablePressRelease="1" Release_X="0.962500" Release_Y="0.159722"/>
+		<Gamepad ItemName="个人属性" Point_X="0.976563" Point_Y="0.461111" Description="手柄按键" Type="GameSir-C1-PERSONAL-ATTRIBUTES" EnablePressRelease="1" Release_X="0.876563" Release_Y="0.097222"/>
+		<Gamepad ItemName="声音" Point_X="0.221875" Point_Y="0.167500" Description="手柄按键" Type="GameSir-C1-VOICE" HasNextClickPoint="1" NextClickPoint_X="0.237500" NextClickPoint_Y="0.172222"/>
+		<Gamepad ItemName="话筒" Point_X="0.217969" Point_Y="0.242500" Description="手柄按键" Type="GameSir-C1-MICROPHONE" HasNextClickPoint="1" NextClickPoint_X="0.236719" NextClickPoint_Y="0.243056"/>
+		<Gamepad ItemName="设置" Point_X="0.974219" Point_Y="0.038889" Description="手柄按键" Type="GameSir-C1-SETTINGS" EnableSecondPoint="1" SecondPoint_X="0.961719" SecondPoint_Y="0.104167"/>
+		<GamepadEx ItemName="4+左摇杆" Point_X="0.621875" Point_Y="0.895000" Description="方向技能" Type="JoystickSkill" Button="GameSir-C1-4" LeftJoystick="1"/>
+		<GamepadEx ItemName="技能1+右摇杆" Point_X="0.716406" Point_Y="0.878750" Description="手柄组合键" Type="JoystickSkill" Button="GameSir-C1-SKILL-1" LeftJoystick="0"/>
+		<GamepadEx ItemName="技能2+右摇杆" Point_X="0.785156" Point_Y="0.686250" Description="手柄组合键" Type="JoystickSkill" Button="GameSir-C1-SKILL-2" LeftJoystick="0"/>
+		<GamepadEx ItemName="技能3+右摇杆" Point_X="0.903125" Point_Y="0.577500" Description="手柄组合键" Type="JoystickSkill" Button="GameSir-C1-SKILL-3" LeftJoystick="0"/>
+		</KeyMapModeForDevice>
+	<KeyMapModeForDevice ModeID="5" Name="小鸡王者-4技能" DeviceId="1">
+		<Gamepad ItemName="左摇杆" Point_X="0.123047" Point_Y="0.793403" Description="移动" Type="LeftJoystick" Loop="0"/>
+		<Gamepad ItemName="0" Point_X="0.924219" Point_Y="0.877778" Description="手柄按键" Type="GameSir-C1-0"/>
+		<Gamepad ItemName="1" Point_X="0.379688" Point_Y="0.902500" Description="手柄按键" Type="GameSir-C1-1"/>
+		<Gamepad ItemName="2" Point_X="0.452344" Point_Y="0.896250" Description="手柄按键" Type="GameSir-C1-2"/>
+		<Gamepad ItemName="3" Point_X="0.532813" Point_Y="0.891250" Description="手柄按键" Type="GameSir-C1-3"/>
+		<Gamepad ItemName="5" Point_X="0.907031" Point_Y="0.844444" Description="手柄按键" Type="GameSir-C1-5"/>
+		<Gamepad ItemName="6" Point_X="0.812500" Point_Y="0.910000" Description="手柄按键" Type="GameSir-C1-6"/>
+		<Gamepad ItemName="7" Point_X="0.955469" Point_Y="0.710000" Description="手柄按键" Type="GameSir-C1-7"/>
+		<Gamepad ItemName="8" Point_X="0.037500" Point_Y="0.420833" Description="手柄按键" Type="GameSir-C1-8" EnableSecondPoint="1" SecondPoint_X="0.963281" SecondPoint_Y="0.077778"/>
+		<Gamepad ItemName="9" Point_X="0.114063" Point_Y="0.397500" Description="手柄按键" Type="GameSir-C1-9"/>
+		<Gamepad ItemName="10" Point_X="0.114844" Point_Y="0.515000" Description="手柄按键" Type="GameS

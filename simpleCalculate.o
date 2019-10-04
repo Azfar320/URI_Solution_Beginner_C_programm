@@ -1,0 +1,15 @@
+<ConfigFilePath Enable="1" Version="241">
+	<file name="apk_44.conf" tag="ApkConf_44" path="UI"/>
+	<file name="opengl.conf" tag="OpenglConf" path="UI"/>
+	<file name="render.dat" tag="RenderConf" path="UI"/>
+	<file name="translate.conf" tag="TranslateConf" path="UI"/>
+	<file name="DefaultKeyMapping.xml" tag="DefaultKeyMappingXml" path="UI"/>
+	<file name="hardinput.conf" tag="HardInput" path="UI"/>
+	<file name="hardinput2.conf" tag="HardInput2" path="UI"/>
+	<file name="wztimer.conf" tag="wztimerConf" path="UI"/>
+	<file name="smk.conf" tag="smkConf" path="UI"/>
+	<file name="HardwareDetect.xml" tag="HardwareDetectXml" path="UI"/>
+	<!--file name="AowGame.xml" tag="AowGame" path="AppMarket"/-->
+	<file name="AowConfig.ini" tag="AowConfig" path="UI"/>
+	<file name="SceneTips.xml" tag="SceneTips" path="UI"/>
+	<file name

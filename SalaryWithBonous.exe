@@ -1,0 +1,245 @@
+eyMappingEx Point_X="0.652773" Point_Y="0.375139" Description="移动视野" NoDelete="1" SpecialFunc="2" OpGuidClass="2" Type="KeyMove" Offset="330" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="71" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="1"/>
+<KeyMappingEx Point_X="0.747070" Point_Y="0.878472" Description="技能1" NoDelete="1" SpecialFunc="0" OpGuidClass="1" Type="KeyMove" Offset="100" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="81" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="-28.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="0"/>
+<KeyMappingEx Point_X="0.808594" Point_Y="0.692708" Description="技能2" NoDelete="1" SpecialFunc="0" OpGuidClass="1" Type="KeyMove" Offset="100" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="87" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="0"/>
+<KeyMappingEx Point_X="0.199219" Point_Y="0.295139" Description="查看地图" NoDelete="1" SpecialFunc="1" OpGuidClass="2" Type="PressRelease" AsciiCode="18" Release_X="0.478516" Release_Y="0.678819"/>
+<KeyMappingEx Point_X="0.923828" Point_Y="0.053819" Description="查看对局" NoDelete="1" SpecialFunc="3" OpGuidClass="2" Type="PressRelease" AsciiCode="192" Release_X="0.927623" Release_Y="0.131206"/>
+<Gamepad Point_X="0.109375" Point_Y="0.401042" Description="手柄按键" Type="Start"/>
+<Gamepad Point_X="0.830078" Point_Y="0.911458" Description="手柄按键" Type="LT"/>
+<Gamepad Point_X="0.693359" Point_Y="0.776042" Description="手柄按键" Type="Left"/>
+<Gamepad Point_X="0.849609" Point_Y="0.486111" Description="手柄按键" Type="Right"/>
+<Gamepad Point_X="0.757813" Point_Y="0.588542" Description="手柄按键" Type="Up"/>
+<Gamepad Point_X="0.657227" Point_Y="0.895833" Description="手柄按键" Type="X"/>
+<Gamepad Point_X="0.583008" Point_Y="0.901042" Description="手柄按键" Type="Y"/>
+<Gamepad Point_X="0.917969" Point_Y="0.852431" Description="手柄按键" Type="A"/>
+<Gamepad Point_X="0.123047" Point_Y="0.793403" Description="移动" Type="LeftJoystick" Loop="0"/>
+<Gamepad Point_X="0.500000" Point_Y="0.500000" Description="视角" Type="RightJoystick" Loop="1"/>
+<GamepadEx Point_X="0.912109" Point_Y="0.590278" Description="方向技能" Type="JoystickSkill" Button="LB" LeftJoystick="0"/>
+<GamepadEx Point_X="0.809570" Point_Y="0.690972" Description="方向技能" Type="JoystickSkill" Button="RT" LeftJoystick="0"/>
+<GamepadEx Point_X="0.743164" Point_Y="0.880208" Description="方向技能" Type="JoystickSkill" Button="RB" LeftJoystick="0"/>
+</KeyMapMode>
+<KeyMapMode ModeID="3" Name="智能施法-4技能">
+<KeyMapping Point_X="0.914063" Point_Y="0.855903" Description="普通攻击" NoDelete="1" SpecialFunc="0" OpGuidClass="2" AsciiCode="32"/>
+<KeyMapping Point_X="0.693359" Point_Y="0.776042" Description="升级技能1" AsciiCode="49"/>
+<KeyMapping Point_X="0.723633" Point_Y="0.637153" Description="升级技能2" AsciiCode="50"/>
+<KeyMapping Point_X="0.794922" Point_Y="0.515625" Description="升级技能3" AsciiCode="51"/>
+<KeyMapping Point_X="0.887695" Point_Y="0.501736" Description="字母键" AsciiCode="52"/>
+<KeyMapping Point_X="0.108398" Point_Y="0.397569" Description="字母键" AsciiCode="53"/>
+<KeyMapping Point_X="0.102539" Point_Y="0.519097" Description="字母键" AsciiCode="54"/>
+<KeyMapping Point_X="0.506836" Point_Y="0.895833" Description="回城" AsciiCode="66"/>
+<KeyMapping Point_X="0.581055" Point_Y="0.897569" Description="治疗" AsciiCode="68"/>
+<KeyMapping Point_X="0.824219" Point_Y="0.885417" Description="字母键" AsciiCode="71"/>
+<KeyMapping Point_X="0.959961" Point_Y="0.708333" Description="推塔" AsciiCode="84"/>
+<KeyMapping Point_X="0.905273" Point_Y="0.392361" Description="物品技能" AsciiCode="86"/>
+<KeyMappingEx Point_X="0.141602" Point_Y="0.789931" Description="右键移动" Type="CrossKey2" Offset="100" Click_X="0.500000" Click_Y="0.500000" Click_Offset="0.400000" Click_Left="0"/>
+<KeyMappingEx Point_X="0.844727" Point_Y="0.614583" Description="技能3" NoDelete="1" SpecialFunc="0" OpGuidClass="1" Type="KeyMove" Offset="100" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="69" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="-28.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="0"/>
+<KeyMappingEx Point_X="0.659180" Point_Y="0.897569" Description="召唤师技能" NoDelete="1" SpecialFunc="0" OpGuidClass="1" Type="KeyMove" Offset="100" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="70" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="0"/>
+<KeyMappingEx Point_X="0.652773" Point_Y="0.375139" Description="移动视野" NoDelete="1" SpecialFunc="2" OpGuidClass="2" Type="KeyMove" Offset="330" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="71" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="1"/>
+<KeyMappingEx Point_X="0.750000" Point_Y="0.876736" Description="技能1" NoDelete="1" SpecialFunc="0" OpGuidClass="1" Type="KeyMove" Offset="100" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="81" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="-28.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="0"/>
+<KeyMappingEx Point_X="0.934570" Point_Y="0.586806" Description="技能4" NoDelete="1" SpecialFunc="0" OpGuidClass="1" Type="KeyMove" Offset="100" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="82" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="0"/>
+<KeyMappingEx Point_X="0.772461" Point_Y="0.732639" Description="技能2" NoDelete="1" SpecialFunc="0" OpGuidClass="1" Type="KeyMove" Offset="100" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="87" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="0"/>
+<KeyMappingEx Point_X="0.199219" Point_Y="0.295139" Description="查看地图" NoDelete="1" SpecialFunc="1" OpGuidClass="2" Type="PressRelease" AsciiCode="18" Release_X="0.478516" Release_Y="0.678819"/>
+<KeyMappingEx Point_X="0.923828" Point_Y="0.053819" Description="查看对局" NoDelete="1" SpecialFunc="3" OpGuidClass="2" Type="PressRelease" AsciiCode="192" Release_X="0.927623" Release_Y="0.131206"/>
+</KeyMapMode>
+<KeyMapModeForDevice ModeID="4" Name="小鸡王者-3技能" DeviceId="1">
+<Gamepad ItemName="左摇杆" Point_X="0.123047" Point_Y="0.793403" Description="移动" Type="LeftJoystick" Loop="0"/>
+<Gamepad ItemName="0" Point_X="0.924219" Point_Y="0.877778" Description="手柄按键" Type="GameSir-C1-0"/>
+<Gamepad ItemName="1" Point_X="0.433594" Point_Y="0.900000" Description="手柄按键" Type="GameSir-C1-1"/>
+<Gamepad ItemName="2" Point_X="0.506250" Point_Y="0.901389" Description="手柄按键" Type="GameSir-C1-2"/>
+<Gamepad ItemName="3" Point_X="0.580469" Point_Y="0.897222" Description="手柄按键" Type="GameSir-C1-3"/>
+<Gamepad ItemName="5" Point_X="0.907031" Point_Y="0.844444" Description="手柄按键" Type="GameSir-C1-5"/>
+<Gamepad ItemName="6" Point_X="0.828125" Point_Y="0.909722" Description="手柄按键" Type="GameSir-C1-6"/>
+<Gamepad ItemName="7" Point_X="0.959375" Point_Y="0.709722" Description="手柄按键" Type="GameSir-C1-7"/>
+<Gamepad ItemName="8" Point_X="0.037500" Point_Y="0.420833" Description="手柄按键" Type="GameSir-C1-8" EnableSecondPoint="1" SecondPoint_X="0.963281" SecondPoint_Y="0.077778"/>
+<Gamepad ItemName="9" Point_X="0.107031" Point_Y="0.400000" Description="手柄按键" Type="GameSir-C1-9"/>
+<Gamepad ItemName="10" Point_X="0.106250" Point_Y="0.511111" Description="手柄按键" Type="GameSir-C1-10"/>
+<Gamepad ItemName="A+" Point_X="0.695313" Point_Y="0.776389" Description="手柄按键" Type="GameSir-C1-A+"/>
+<Gamepad ItemName="B+" Point_X="0.753125" Point_Y="0.591667" Description="手柄按键" Type="GameSir-C1-B+"/>
+<Gamepad ItemName="X+" Point_X="0.858594" Point_Y="0.480556" Description="手柄按键" Type="GameSir-C1-X+"/>
+<Gamepad ItemName="金身" Point_X="0.907031" Point_Y="0.388889" Description="手柄按键" Type="GameSir-C1-GOLD-BODY"/>
+<Gamepad ItemName="进攻" Point_X="0.976563" Point_Y="0.126389" Description="手柄按键" Type="GameSir-C1-ATTACK"/>
+<Gamepad ItemName="撤退" Point_X="0.975781" Point_Y="0.211111" Description="手柄按键" Type="GameSir-C1-RETREAT"/>
+<Gamepad ItemName="集合" Point_X="0.975781" Point_Y="0.288889" Description="手柄按键" Type="GameSir-C1-CLUMP"/>
+<Gamepad ItemName="团队属性" Point_X="0.732812" Point_Y="0.043056" Description="手柄按键" Type="GameSir-C1-TEAM-ATTRIBUTES" HasNextClickPoint="1" NextClickPoint_X="0.075000" NextClickPoint_Y="0.162500" EnablePressRelease="1" Release_X="0.962500" Release_Y="0.159722"/>
+<Gamepad ItemName="个人属性" Point_X="0.976563" Point_Y="0.461111" Description="手柄按键" Type="GameSir-C1-PERSONAL-ATTRIBUTES" EnablePressRelease="1" Release_X="0.876563" Release_Y="0.097222"/>
+<Gamepad ItemName="声音" Point_X="0.200000" Point_Y="0.166667" Description="手柄按键" Type="GameSir-C1-VOICE" HasNextClickPoint="1" NextClickPoint_X="0.237500" NextClickPoint_Y="0.172222"/>
+<Gamepad ItemName="话筒" Point_X="0.198437" Point_Y="0.241667" Description="手柄按键" Type="GameSir-C1-MICROPHONE" HasNextClickPoint="1" NextClickPoint_X="0.236719" NextClickPoint_Y="0.243056"/>
+<Gamepad ItemName="设置" Point_X="0.974219" Point_Y="0.038889" Description="手柄按键" Type="GameSir-C1-SETTINGS" EnableSecondPoint="1" SecondPoint_X="0.961719" SecondPoint_Y="0.104167"/>
+<GamepadEx ItemName="4+左摇杆" Point_X="0.660937" Point_Y="0.898611" Description="方向技能" Type="JoystickSkill" Button="GameSir-C1-4" LeftJoystick="1"/>
+<GamepadEx ItemName="技能1+右摇杆" Point_X="0.746094" Point_Y="0.877778" Description="手柄组合键" Type="JoystickSkill" Button="GameSir-C1-SKILL-1" LeftJoystick="0"/>
+<GamepadEx ItemName="技能2+右摇杆" Point_X="0.803906" Point_Y="0.694444" Description="手柄组合键" Type="JoystickSkill" Button="GameSir-C1-SKILL-2" LeftJoystick="0"/>
+<GamepadEx ItemName="技能3+右摇杆" Point_X="0.908594" Point_Y="0.579167" Description="手柄组合键" Type="JoystickSkill" Button="GameSir-C1-SKILL-3" LeftJoystick="0"/>
+</KeyMapModeForDevice>
+<KeyMapModeForDevice ModeID="5" Name="小鸡王者-4技能" DeviceId="1">
+<Gamepad ItemName="左摇杆" Point_X="0.123047" Point_Y="0.793403" Description="移动" Type="LeftJoystick" Loop="0"/>
+<Gamepad ItemName="0" Point_X="0.924219" Point_Y="0.877778" Description="手柄按键" Type="GameSir-C1-0"/>
+<Gamepad ItemName="1" Point_X="0.433594" Point_Y="0.900000" Description="手柄按键" Type="GameSir-C1-1"/>
+<Gamepad ItemName="2" Point_X="0.506250" Point_Y="0.901389" Description="手柄按键" Type="GameSir-C1-2"/>
+<Gamepad ItemName="3" Point_X="0.580469" Point_Y="0.897222" Description="手柄按键" Type="GameSir-C1-3"/>
+<Gamepad ItemName="5" Point_X="0.907031" Point_Y="0.844444" Description="手柄按键" Type="GameSir-C1-5"/>
+<Gamepad ItemName="6" Point_X="0.828125" Point_Y="0.909722" Description="手柄按键" Type="GameSir-C1-6"/>
+<Gamepad ItemName="7" Point_X="0.959375" Point_Y="0.709722" Description="手柄按键" Type="GameSir-C1-7"/>
+<Gamepad ItemName="8" Point_X="0.037500" Point_Y="0.420833" Description="手柄按键" Type="GameSir-C1-8" EnableSecondPoint="1" SecondPoint_X="0.963281" SecondPoint_Y="0.077778"/>
+<Gamepad ItemName="9" Point_X="0.107031" Point_Y="0.400000" Description="手柄按键" Type="GameSir-C1-9"/>
+<Gamepad ItemName="10" Point_X="0.106250" Point_Y="0.511111" Description="手柄按键" Type="GameSir-C1-10"/>
+<Gamepad ItemName="A+" Point_X="0.702344" Point_Y="0.791667" Description="手柄按键" Type="GameSir-C1-A+"/>
+<Gamepad ItemName="B+" Point_X="0.722656" Point_Y="0.638889" Description="手柄按键" Type="GameSir-C1-B+"/>
+<Gamepad ItemName="X+" Point_X="0.796875" Point_Y="0.525000" Description="手柄按键" Type="GameSir-C1-X+"/>
+<Gamepad ItemName="Y+" Point_X="0.887500" Point_Y="0.500000" Description="手柄按键" Type="GameSir-C1-Y+"/>
+<Gamepad ItemName="金身" Point_X="0.907031" Point_Y="0.388889" Description="手柄按键" Type="GameSir-C1-GOLD-BODY"/>
+<Gamepad ItemName="进攻" Point_X="0.976563" Point_Y="0.126389" Description="手柄按键" Type="GameSir-C1-ATTACK"/>
+<Gamepad ItemName="撤退" Point_X="0.975781" Point_Y="0.211111" Description="手柄按键" Type="GameSir-C1-RETREAT"/>
+<Gamepad ItemName="集合" Point_X="0.975781" Point_Y="0.288889" Description="手柄按键" Type="GameSir-C1-CLUMP"/>
+<Gamepad ItemName="团队属性" Point_X="0.732812" Point_Y="0.043056" Description="手柄按键" Type="GameSir-C1-TEAM-ATTRIBUTES" HasNextClickPoint="1" NextClickPoint_X="0.075000" NextClickPoint_Y="0.162500" EnablePressRelease="1" Release_X="0.962500" Release_Y="0.159722"/>
+<Gamepad ItemName="个人属性" Point_X="0.976563" Point_Y="0.461111" Description="手柄按键" Type="GameSir-C1-PERSONAL-ATTRIBUTES" EnablePressRelease="1" Release_X="0.876563" Release_Y="0.097222"/>
+<Gamepad ItemName="声音" Point_X="0.200000" Point_Y="0.166667" Description="手柄按键" Type="GameSir-C1-VOICE" HasNextClickPoint="1" NextClickPoint_X="0.237500" NextClickPoint_Y="0.172222"/>
+<Gamepad ItemName="话筒" Point_X="0.198437" Point_Y="0.241667" Description="手柄按键" Type="GameSir-C1-MICROPHONE" HasNextClickPoint="1" NextClickPoint_X="0.236719" NextClickPoint_Y="0.243056"/>
+<Gamepad ItemName="设置" Point_X="0.974219" Point_Y="0.038889" Description="手柄按键" Type="GameSir-C1-SETTINGS" EnableSecondPoint="1" SecondPoint_X="0.961719" SecondPoint_Y="0.104167"/>
+<GamepadEx ItemName="4+左摇杆" Point_X="0.660937" Point_Y="0.898611" Description="方向技能" Type="JoystickSkill" Button="GameSir-C1-4" LeftJoystick="1"/>
+<GamepadEx ItemName="技能1+右摇杆" Point_X="0.749219" Point_Y="0.880556" Description="手柄组合键" Type="JoystickSkill" Button="GameSir-C1-SKILL-1" LeftJoystick="0"/>
+<GamepadEx ItemName="技能2+右摇杆" Point_X="0.771094" Point_Y="0.727778" Description="手柄组合键" Type="JoystickSkill" Button="GameSir-C1-SKILL-2" LeftJoystick="0"/>
+<GamepadEx ItemName="技能3+右摇杆" Point_X="0.842187" Point_Y="0.609722" Description="手柄组合键" Type="JoystickSkill" Button="GameSir-C1-SKILL-3" LeftJoystick="0"/>
+<GamepadEx ItemName="技能4+右摇杆" Point_X="0.934375" Point_Y="0.587500" Description="手柄组合键" Type="JoystickSkill" Button="GameSir-C1-SKILL-4" LeftJoystick="0"/>
+</KeyMapModeForDevice>
+<Resolution_16x10>
+	<KeyMapMode ModeID="1" Name="普通模式">
+	<KeyMapping Point_X="0.654687" Point_Y="0.910000" Description="召唤师技能" AsciiCode="75"/>
+	<KeyMapping Point_X="0.685937" Point_Y="0.802500" Description="升级技能1" AsciiCode="49"/>
+	<KeyMapping Point_X="0.747656" Point_Y="0.631250" Description="升级技能2" AsciiCode="50"/>
+	<KeyMapping Point_X="0.853125" Point_Y="0.532500" Description="升级技能3" AsciiCode="51"/>
+	<KeyMapping Point_X="0.103125" Point_Y="0.408750" Description="购买物品1" AsciiCode="52"/>
+	<KeyMapping Point_X="0.107031" Point_Y="0.506250" Description="购买物品2" AsciiCode="53"/>
+	<KeyMapping Point_X="0.499219" Point_Y="0.906250" Description="回城" AsciiCode="66"/>
+	<KeyMapping Point_X="0.574219" Point_Y="0.907500" Description="治疗" AsciiCode="69"/>
+	<KeyMapping Point_X="0.802344" Point_Y="0.723750" Description="技能2" AsciiCode="73"/>
+	<KeyMapping Point_X="0.740625" Point_Y="0.893750" Description="技能1" AsciiCode="74"/>
+	<KeyMapping Point_X="0.910156" Point_Y="0.870000" D55 
+09-29 01:41:24:088: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934956 
+09-29 01:41:24:088: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934956 
+09-29 01:41:24:088: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934957 
+09-29 01:41:24:089: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934957 
+09-29 01:41:24:095: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934958 
+09-29 01:41:24:096: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934958 
+09-29 01:41:34:094: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934959 
+09-29 01:41:34:094: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934959 
+09-29 01:41:34:094: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934960 
+09-29 01:41:34:095: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934960 
+09-29 01:41:34:104: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934961 
+09-29 01:41:34:104: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934961 
+09-29 01:41:44:094: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934962 
+09-29 01:41:44:094: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934962 
+09-29 01:41:44:095: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934963 
+09-29 01:41:44:095: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934963 
+09-29 01:42:24:095: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934964 
+09-29 01:42:24:095: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934964 
+09-29 01:42:24:096: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934965 
+09-29 01:42:24:096: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934965 
+09-29 01:42:24:100: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934966 
+09-29 01:42:24:100: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934966 
+09-29 01:42:34:095: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934967 
+09-29 01:42:34:096: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934967 
+09-29 01:42:34:096: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934968 
+09-29 01:42:34:096: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934968 
+09-29 01:42:34:104: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934969 
+09-29 01:42:34:104: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934969 
+09-29 01:42:44:095: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934970 
+09-29 01:42:44:095: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934970 
+09-29 01:42:44:095: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934971 
+09-29 01:42:44:095: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934971 
+09-29 01:43:24:099: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934972 
+09-29 01:43:24:099: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934972 
+09-29 01:43:24:099: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934973 
+09-29 01:43:24:099: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934973 
+09-29 01:43:24:106: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934974 
+09-29 01:43:24:107: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934974 
+09-29 01:43:34:099: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934975 
+09-29 01:43:34:099: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934975 
+09-29 01:43:34:099: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934976 
+09-29 01:43:34:099: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934976 
+09-29 01:43:34:129: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934977 
+09-29 01:43:34:129: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934977 
+09-29 01:43:44:100: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934978 
+09-29 01:43:44:100: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934978 
+09-29 01:43:44:100: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934979 
+09-29 01:43:44:100: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934979 
+09-29 01:44:24:104: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934980 
+09-29 01:44:24:104: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934980 
+09-29 01:44:24:104: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934981 
+09-29 01:44:24:105: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934981 
+09-29 01:44:24:109: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934982 
+09-29 01:44:24:109: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934982 
+09-29 01:44:34:104: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934983 
+09-29 01:44:34:104: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934983 
+09-29 01:44:34:104: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934984 
+09-29 01:44:34:104: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934984 
+09-29 01:44:34:108: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934985 
+09-29 01:44:34:108: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934985 
+09-29 01:44:44:106: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934986 
+09-29 01:44:44:106: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934986 
+09-29 01:44:44:106: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934987 
+09-29 01:44:44:106: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934987 
+09-29 01:45:24:109: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934988 
+09-29 01:45:24:109: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934988 
+09-29 01:45:24:109: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934989 
+09-29 01:45:24:109: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934989 
+09-29 01:45:24:113: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934990 
+09-29 01:45:24:113: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934990 
+09-29 01:45:34:112: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934991 
+09-29 01:45:34:112: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934991 
+09-29 01:45:34:113: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934992 
+09-29 01:45:34:113: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934992 
+09-29 01:45:34:119: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934993 
+09-29 01:45:34:119: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934993 
+09-29 01:45:44:112: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934994 
+09-29 01:45:44:112: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934994 
+09-29 01:45:44:112: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934995 
+09-29 01:45:44:113: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934995 
+09-29 01:46:24:114: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934996 
+09-29 01:46:24:114: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934996 
+09-29 01:46:24:115: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934997 
+09-29 01:46:24:115: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934997 
+09-29 01:46:24:123: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934998 
+09-29 01:46:24:123: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934998 
+09-29 01:46:34:115: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589934999 
+09-29 01:46:34:115: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589934999 
+09-29 01:46:34:115: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935000 
+09-29 01:46:34:115: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935000 
+09-29 01:46:34:118: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935001 
+09-29 01:46:34:118: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935001 
+09-29 01:46:44:115: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935002 
+09-29 01:46:44:115: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935002 
+09-29 01:46:44:115: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935003 
+09-29 01:46:44:115: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935003 
+09-29 01:47:24:120: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935004 
+09-29 01:47:24:120: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935004 
+09-29 01:47:24:120: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935005 
+09-29 01:47:24:120: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935005 
+09-29 01:47:24:122: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935006 
+09-29 01:47:24:122: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935006 
+09-29 01:47:34:119: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935007 
+09-29 01:47:34:119: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935007 
+09-29 01:47:34:119: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935008 
+09-29 01:47:34:119: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935008 
+09-29 01:47:34:122: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935009 
+09-29 01:47:34:122: [Tid=5812][JS->C++|0ms] QueryGameLastArea 8589935009 
+09-29 01:47:44:122: [Tid=4352][JS->C++ RET] QueryGameLastArea 8589935010 
+09-29 01:47:ick_Y="0.550000" Click_Offset="0.450000" AsciiCode="70" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" OpGuidClass="1" SpecialFunc="0"/>
+        <KeyMappingEx Point_X="0.744531" Point_Y="0.893750" Description="技能1" NoDelete="1" Type="KeyMove" Offset="100" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="81" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="-28.000000" StopMoving="0" NeedPressed="1" OpGuidClass="1" SpecialFunc="0"/>
+        <KeyMappingEx Point_X="0.928906" Point_Y="0.628750" Description="技能4" NoDelete="1" Type="KeyMove" Offset="100" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="82" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" OpGuidClass="1" SpecialFunc="0"/>
+        <KeyMappingEx Point_X="0.765625" Point_Y="0.757500" Description="技能2" NoDelete="1" Type="KeyMove" Offset="100" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="87" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" OpGuidClass="1" SpecialFunc="0"/>
+        <KeyMappingEx Point_X="0.199219" Point_Y="0.295139" Description="查看地图" NoDelete="1" Type="PressRelease" AsciiCode="18" Release_X="0.488281" Release_Y="0.621250" OpGuidClass="2" SpecialFunc="1"/>
+        <KeyMappingEx Point_X="0.928906" Point_Y="0.048750" Description="查看对局" NoDelete="1" Type="PressRelease" AsciiCode="192" Release_X="0.928906" Release_Y="0.176250" OpGuidClass="2" SpecialFunc="3"/>
+		<KeyMappingEx Point_X="0.652773" Point_Y="0.375139" Description="移动视野" NoDelete="1" Type="KeyMove" Offset="330" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="71" Cancel_X="0.911133" Cancel_Y="0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" OpGuidClass="2" SpecialFunc="2" Center_XY_Disable="1"/>
+        </KeyMapMode>
+	<KeyMapModeForDevice ModeID="4" Name="小鸡王者-3技能" DeviceId="1">
+		<Gamepad ItemName="左摇杆" Point_X="0.123047" Point_Y="0.793403" Description="移动" Type="LeftJoystick" Loop="0"/>
+		<Gamepad ItemName="0" Point_X="0.924219" Point_Y="0.877778" Description="手柄按键" Type="GameSir-C1-0"/>
+		<Gamepad ItemName="1" Point_X="0.378125" Point_Y="0.901250" Description="手柄按键" Type="GameSir-C1-1"/>
+		<Gamepad ItemName="2" Point_X="0.450000" Point_Y="0.896250" Description="手柄按键" Type="GameSir-C1-2"/>
+		<Gamepad ItemName="3" Point_X="0.535156" Point_Y="0.896250" Description="手柄按键" Type="GameSir-C1-3"/>
+		<Gamepad ItemName="5" Point_X="0.893750" Point_Y="0.843750" Description="手柄按键" Type="GameSir-C1-5"/>
+		<Gamepad ItemName="6" Point_X="0.809375" Point_Y="0.906250" Description="手柄按键" Type="GameSir-C1-6"/>
+		<Gamepad ItemName="7" Point_X="0.953125" Point_Y="0.710000" Description="手柄按键" Type="GameSir-C1-7"/>
+		<Gamepad ItemName="8" Point_X="0.037500" Point_Y="0.417500" Description="手柄按键" Type="GameSir-C1-8" EnableSecondPoint="1" SecondPoint_X="0.963281" SecondPoint_Y="0.077778"/>
+		<Gamepad ItemName="9" Point_X="0.116406" Point_Y="0.397500" Description="手柄按键" Type="GameSir-C1-9"/>
+		<Gamepad ItemName="10" Point_X="0.116406" Point_Y="0.510000" Description="手柄按键" Type="GameSir-C1-10"/>
+		<Gamepad ItemName="A+" Point_X="0.657813" Point_Y="0.778750" Description="手柄按键" Type="GameSir
