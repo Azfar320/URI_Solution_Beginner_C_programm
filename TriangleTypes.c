@@ -1,3 +1,4 @@
+//URI Problem 1045
 #include <stdio.h>
 
 int main(){
@@ -33,7 +34,7 @@ int main(){
             printf("TRIANGULO RETANGULO\n");
           }
         if(i>j+k){
-            printf(" TRIANGULO OBTUSANGULO\n");
+            printf("TRIANGULO OBTUSANGULO\n");
           }
         if(i<j+k){
             printf("TRIANGULO ACUTANGULO\n");
